@@ -3,4 +3,8 @@ fileignoreconfig:
   checksum: d75c94b866086a023db62aac22d8f0af432a5a822fb1176e05411afa3b434b9d
 - filename: package-lock.json
   checksum: 569258a24d6b12fb15f501125ebbf01763625871184df6aa0526605ab9e4d1be
+- filename: src/components/ExperienceCardData.js
+  checksum: 7c6f893ce17db5bdabcefd39917d8545cbfac5d290762b8505afdf573cb4eecd
+- filename: src/components/WorkCardData.js
+  checksum: c98554fc6353b7bed210976f01743235117acbd557d550a926a65466143e7c42
 version: ""
