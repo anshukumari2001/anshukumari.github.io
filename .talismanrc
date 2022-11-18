@@ -1,10 +1,26 @@
 fileignoreconfig:
 - filename: yarn.lock
-  checksum: d75c94b866086a023db62aac22d8f0af432a5a822fb1176e05411afa3b434b9d
+  checksum: f541371afeddbc956298c94cd2db44812c05d4a243b2a1b6bc3c277ef43a5047
 - filename: package-lock.json
   checksum: 569258a24d6b12fb15f501125ebbf01763625871184df6aa0526605ab9e4d1be
 - filename: src/components/ExperienceCardData.js
   checksum: 7c6f893ce17db5bdabcefd39917d8545cbfac5d290762b8505afdf573cb4eecd
 - filename: src/components/WorkCardData.js
   checksum: c98554fc6353b7bed210976f01743235117acbd557d550a926a65466143e7c42
-version: ""
+- filename: static/js/main.1d97e71c.js
+  checksum: b91444629481efc8e92a7bcdeebe3a9d288dca10720d32f56b049c03be49efdf
+- filename: static/js/main.1d97e71c.js.map
+  checksum: 5632a47af402b7d3ea4571903f6807e3e884c4ef24f1e12f377c883d694e9107
+- filename: static/js/787.1ed0c42c.chunk.js
+  checksum: b6899fbe99d22b324f18c66f66d19fd39fbde57969be30493458128e4d1b306f
+- filename: static/js/787.1ed0c42c.chunk.js.map
+  checksum: 412282a3db09497b6d203b7f69eb2fa4d3f82269d5ebf882c8373e74f97e88dc
+- filename: static/js/main.1d97e71c.js
+  checksum: b91444629481efc8e92a7bcdeebe3a9d288dca10720d32f56b049c03be49efdf
+- filename: static/js/main.1d97e71c.js.map
+  checksum: 5632a47af402b7d3ea4571903f6807e3e884c4ef24f1e12f377c883d694e9107
+- filename: static/js/787.1ed0c42c.chunk.js
+  checksum: b6899fbe99d22b324f18c66f66d19fd39fbde57969be30493458128e4d1b306f
+- filename: static/js/787.1ed0c42c.chunk.js.map
+  checksum: 412282a3db09497b6d203b7f69eb2fa4d3f82269d5ebf882c8373e74f97e88dc
+version: """
